@@ -1,0 +1,4 @@
+future==0.14.2
+virtualenv==1.11.6
+xlrd==0.9.3
+xlwt-future==0.8.0
